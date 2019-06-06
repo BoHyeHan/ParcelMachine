@@ -1,18 +1,11 @@
 # ParcelMachine
 
 ### :movie_camera:__VIDEO__<br>
-[![ParcelMachine](https://i.ytimg.com/vi/cD_2b2yRt_Y/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB4_ggUqt0dGjsf5-QOu2b7tYki0Q)](https://youtu.be/cD_2b2yRt_Y)
-<br>
-![ParcelMachine1](https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine1.gif)
-<br>
-![ParcelMachine1](https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine2.gif)
-<br>
-![ParcelMachine1](https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine3.gif)
-<br>
-![ParcelMachine1](https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine4.gif)
-<br>
-![ParcelMachine1](https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine5.gif)
-<br>
+[![ParcelMachine](https://i.ytimg.com/vi/cD_2b2yRt_Y/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB4_ggUqt0dGjsf5-QOu2b7tYki0Q)](https://youtu.be/cD_2b2yRt_Y)<br>
+<img src="https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine1.gif" width="210" height="120"/>
+<img src="https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine2.gif" width="210" height="120"/>
+<img src="https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine4.gif" width="210" height="120"/>
+<img src="https://github.com/YunByungKwan/video/blob/master/ParcelMachine/ParcelMachine5.gif" width="210" height="120"/><br>
 :pushpin:__소개__<br>
 물류 현장에서 지게차는 필수적이다. 하지만 인명사고가 날 경우, 최소 중상 이상의 피해를 입을 정도로 굉장히 심각한 상황이다. 이를 해결하기 위해 스마트 무인 지게차를 설계하였다.<br><br>
 
